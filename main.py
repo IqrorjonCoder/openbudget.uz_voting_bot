@@ -15,7 +15,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '5653226540:AAHV3R9iSZlmJwfTN_lWvM9HpZUnoiKuNRg'
+API_TOKEN = 'XXXX:XXXX:XXXX:XXXX'
 
 bot = Bot(token=API_TOKEN)
 
